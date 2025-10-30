@@ -21,4 +21,3 @@ img[src$=".qoi"] {
 }
 ```
 4. That’s all — enjoy QOI image support in your project!
----
