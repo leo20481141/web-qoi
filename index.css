@@ -1,0 +1,3 @@
+img[src$=".qoi"] {
+    transform: scaleY(-1);
+}
